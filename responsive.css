@@ -1,0 +1,253 @@
+@media (min-width: 350px) {
+  .msg-input-field {
+    margin: 0 10px 0 10px;
+  }
+  .msg-input {
+    height: 20px;
+    padding: 6px 0 13px 0px;
+    font-size: 0.8rem;
+    max-height: 32px;
+    line-height: 20px;
+    margin: 2px 0;
+  }
+  .chat-controls {
+    height: 35px;
+  }
+  .chat-controls button {
+    height: 35px;
+    width: 35px;
+  }
+  .emoji-picker-container {
+    max-width: 200px;
+    max-height: 200px;
+  }
+  .attachment-pre-img {
+    height: 100px;
+    width: 100px;
+  }
+}
+
+@media (min-width: 376px) {
+  .chat-body {
+    padding: 20px 10px 10px 10px;
+  }
+
+  .msg-input-field {
+    margin: 0 10px 0 10px;
+  }
+  .msg-input {
+    height: 25px;
+    line-height: 10px;
+    margin: 2px 0;
+  }
+  .chat-controls {
+    height: 35px;
+  }
+  .chat-controls button {
+    height: 35px;
+    width: 35px;
+  }
+  .emoji-picker-container {
+    max-width: 200px;
+    max-height: 200px;
+  }
+  .attachment-pre-img {
+    height: 100px;
+    width: 150px;
+  }
+}
+@media (min-width: 760px) {
+  .chatbot-container {
+    width: 87%;
+    max-width: 450px;
+  }
+  .chatbot-logo {
+    height: 35px;
+    width: 35px;
+  }
+
+  #logo-text {
+    font-size: 1.2rem;
+  }
+
+  .chat-body {
+    height: 350px;
+  }
+
+  .chatbot-icon {
+    height: 38px;
+    width: 38px;
+  }
+  .msg-text {
+    font-size: 1rem;
+  }
+
+  #attachment-pre-close {
+    height: 25px;
+    width: 25px;
+    font-size: 19px;
+  }
+  .attachment-preview-div {
+    bottom: 62px;
+  }
+  .attachment-pre-img {
+    height: 110px;
+    width: 210px;
+  }
+  .emoji-picker-container {
+    max-width: 390px;
+    max-height: 240px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    bottom: 62px;
+    left: 42%;
+  }
+  .msg-input-field {
+    max-height: 45px;
+  }
+  .msg-input {
+    height: 27px;
+    padding: 5px 0 5px 0px;
+    font-size: 0.9rem;
+    max-height: 35px;
+    line-height: 1.2;
+  }
+}
+
+@media (min-width: 1024px) {
+  .chatbot-container {
+    width: 87%;
+    max-width: 550px;
+  }
+
+  .chatbot-logo {
+    height: 37px;
+    width: 37px;
+  }
+
+  #logo-text {
+    font-size: 1.4rem;
+  }
+
+  .chat-body {
+    height: 350px;
+  }
+
+  .chatbot-icon {
+    height: 35px;
+    width: 35px;
+  }
+  .msg-text {
+    font-size: 0.9rem;
+  }
+
+  #attachment-pre-close {
+    height: 27px;
+    width: 27px;
+    font-size: 19px;
+  }
+  .attachment-preview-div {
+    bottom: 62px;
+  }
+  .attachment-pre-img {
+    height: 110px;
+    width: 210px;
+  }
+  .emoji-picker-container {
+    max-width: 390px;
+    max-height: 240px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    bottom: 64px;
+    left: 36%;
+  }
+
+  .msg-input-field {
+    max-height: 50px;
+    height: 38px;
+  }
+  .msg-input {
+    height: 30px;
+    padding: 6px 0px;
+    font-size: 0.9rem;
+    max-height: 40px;
+    line-height: 1.2;
+  }
+
+  .chat-controls {
+    height: 38px;
+  }
+  .chat-controls button {
+    height: 38px;
+    width: 38px;
+    font-size: 18px;
+  }
+}
+@media (min-width: 1439px) {
+  .chatbot-container {
+    width: 87%;
+    max-width: 800px;
+  }
+
+  .chatbot-logo {
+    height: 40px;
+    width: 40px;
+  }
+
+  #logo-text {
+    font-size: 1.7rem;
+  }
+
+  .chat-body {
+    height: 430px;
+  }
+
+  .chatbot-icon {
+    height: 37px;
+    width: 37px;
+  }
+  .msg-text {
+    font-size: 1.1rem;
+  }
+
+  #attachment-pre-close {
+    height: 32px;
+    width: 32px;
+    font-size: 20px;
+  }
+  .attachment-preview-div {
+    bottom: 70px;
+  }
+  .emoji-picker-container {
+    max-width: 390px;
+    max-height: 240px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    bottom: 70px;
+    left: 24%;
+  }
+  .msg-input-field {
+    max-height: 200px;
+    height: 43px;
+  }
+  .msg-input {
+    height: 35px;
+    padding: 5px 0px;
+    font-size: 1rem;
+    max-height: 150px;
+    line-height: 1.2;
+  }
+
+  .chat-controls {
+    height: 40px;
+  }
+  .chat-controls button {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    font-size: 22px;
+  }
+}
